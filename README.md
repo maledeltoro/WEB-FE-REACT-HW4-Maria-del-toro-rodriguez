@@ -17,4 +17,4 @@ Este repositorio contiene el proyecto del grupo estudiantil **Innova** de Ingeni
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/maledeltoro/WEB-FE-REACT-HW4-Maria-del-toro-rodriguez.git
