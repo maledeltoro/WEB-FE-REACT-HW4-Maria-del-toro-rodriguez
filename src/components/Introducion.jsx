@@ -1,4 +1,4 @@
-const Introduction = () => {
+const Introducion = () => {
   return (
     <section className="bg-white text-lightpink p-4 sm:p-8">
       <h2 className="text-2xl sm:text-3xl font-bold pb-4 text-lightblue">Introducción</h2>
@@ -13,7 +13,7 @@ const Introduction = () => {
   );
 };
 
-export default Introduction;
+export default Introducion;
 
 
   

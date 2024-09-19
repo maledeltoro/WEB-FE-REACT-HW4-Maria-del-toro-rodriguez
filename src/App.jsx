@@ -1,8 +1,8 @@
 import Header from './components/Header';
-import Introduction from './components/Introduction';
-import Diagnosis from './components/Diagnosis';
-import OrganizationalIdentity from './components/OrganizationalIdentity';
-import StrategicObjectives from './components/StrategicObjectives';
+import Introducion from './components/Introducion';
+import Diagnostico from './components/Diagnostico';
+import Organizacion from './components/Organizacion';
+import Objetivos from './components/Objetivos';
 import Footer from './components/Footer';
 
 
@@ -13,10 +13,10 @@ const App = () => {
   return (
     <div>
       <Header />
-      <Introduction />
-      <Diagnosis data={diagnosisData} />
-      <OrganizationalIdentity />
-      <StrategicObjectives objectives={objectivesData} />
+      <Introducion />
+      <Diagnostico data={diagnosisData} />
+      <Organizacion/>
+      <Objetivos objectives={objectivesData} />
       <Footer />
     </div>
   );

@@ -1,4 +1,4 @@
-const OrganizationalIdentity = () => {
+const Organizacion = () => {
   return (
     <section className="p-4 sm:p-8 bg-white text-lightpink">
       <h2 className="text-2xl font-bold mb-4 text-lightblue">2. Identidad Organizacional</h2>
@@ -39,7 +39,7 @@ const OrganizationalIdentity = () => {
   );
 };
 
-export default OrganizationalIdentity;
+export default Organizacion;
 
 
   

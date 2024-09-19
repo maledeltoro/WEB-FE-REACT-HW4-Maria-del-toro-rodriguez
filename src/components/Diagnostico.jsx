@@ -1,4 +1,4 @@
-const Diagnosis = () => {
+const Diagnostico = () => {
   const data = [
     { id: 1, type: "Debilidades", items: [
       { id: 1, description: "Falta de recursos económicos para financiar proyectos a gran escala." },
@@ -41,4 +41,4 @@ const Diagnosis = () => {
   );
 };
 
-export default Diagnosis;
+export default Diagnostico;

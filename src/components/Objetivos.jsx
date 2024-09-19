@@ -1,4 +1,4 @@
-const StrategicObjectives = () => {
+const Objetivos= () => {
   const objectives = [
     { id: 2000, goal: 'Ampliar la membresía estudiantil', target: '20%', progress: '8%', compliance: 40 },
     { id: 2001, goal: 'Organizar talleres técnicos', target: '5 talleres', progress: '3 talleres', compliance: 60 },
@@ -47,7 +47,7 @@ const StrategicObjectives = () => {
   );
 };
 
-export default StrategicObjectives;
+export default Objetivos;
 
 
   
